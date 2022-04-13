@@ -1,0 +1,81 @@
+/* Style Sheet for Molly's Slime Site */
+/* Color Palette Reference
+https://colorhunt.co/palette/ff87caffc4e1eaeaeaeed7ce */
+body {
+  font-family: "Mali";
+
+  color: #EAEAEA;
+}
+
+h1 {
+  color: #EAEAEA;
+  font-size: 5rem;
+  margin: 0;
+  text-align: center;
+}
+
+h2 {
+  color: #EAEAEA;
+  font-style: italic;
+  text-align: center;
+  font-size: 1rem;
+}
+
+a:hover{
+  color: #D1D1D1
+}
+
+a {
+
+  color: #EAEAEA;
+  text-decoration: underline;
+  font-size: 1.75rem;
+}
+
+p {
+  font-size: 10px;
+}
+
+.navbar {
+  background-color: #EED7CE;
+  color: #EAEAEA;
+}
+
+#heading-section{
+  background-color: #FF87CA;
+}
+
+.sub-title {
+  margin: 0 20% 0;
+}
+
+.sub-sub-title {
+  margin: 50px 0 50px;
+
+}
+
+#portfolio{
+  text-align: center;
+  background-color: #FFC4E1;
+}
+
+.types-image{
+  border-radius: 100%;
+  width: 150px;
+  margin: 20px;
+  align-items: center;
+}
+
+.item-text{
+  font-size: 3rem;
+}
+
+.products-carousel{
+  margin: 0 20% 0;
+  padding: 50px 0;
+}
+
+
+.active{
+
+}
